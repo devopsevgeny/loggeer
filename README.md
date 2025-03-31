@@ -7,14 +7,14 @@
 ```
 source /path/to/logger.sh
 ```
-# Initialize the logger (optional arguments):
+**Initialize the logger (optional arguments):**
 
 
 
 ```
 init_logger -L DEBUG -l "my_log_file.log" -v
 ```
-# Log messages using the appropriate log level:
+** Log messages using the appropriate log level:**
 
 ```
 log_info "This is an info message"
