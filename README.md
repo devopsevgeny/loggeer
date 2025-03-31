@@ -1,4 +1,4 @@
-<h1>loggeer<h1/>
+<h1>logger<h1/>
   
 # How to Use in this  Scripts:
 **Source the logger script:**
